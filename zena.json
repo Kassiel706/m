@@ -2,5 +2,6 @@
     "name": "ZenaPool",
     "description": "The Genoa Pool",
     "ticker": "ZENA",
-    "homepage": "https://github.com/Kassiel706"
+    "homepage": "https://github.com/Kassiel706",
+    "extended": "https://raw.githubusercontent.com/Kassiel706/m/main/extended.json"
 }
